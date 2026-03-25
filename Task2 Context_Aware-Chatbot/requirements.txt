@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-classic
+langchain-groq
+faiss-cpu
+sentence-transformers
+huggingface_hub
+streamlit
+python-dotenv
