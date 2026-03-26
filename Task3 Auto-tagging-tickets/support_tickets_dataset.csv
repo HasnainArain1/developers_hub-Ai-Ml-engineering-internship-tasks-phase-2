@@ -1,0 +1,351 @@
+ticket_id,ticket_text,true_tags
+1,My payment didn't go through. I've tried 3 times and keep getting an error,billing
+2,App crashes every time I try to upload a file,technical
+3,How do I change my password?,account
+4,What are your pricing plans?,general
+5,Invoice shows the wrong amount charged twice,"billing,account"
+6,Can't log in to my account anymore,account
+7,The app is running very slow on my phone,technical
+8,Do you offer student discounts?,general
+9,I need a refund for my last purchase,billing
+10,Error code 500 when accessing the dashboard,technical
+11,How do I delete my account?,account
+12,What is your customer support hours?,general
+13,Credit card was declined but money was taken,"billing,account"
+14,The website won't load on Safari browser,technical
+15,Forgot my username,account
+16,Can you explain the premium features?,general
+17,Subscription renewal charged me without asking,billing
+18,App keeps logging me out unexpectedly,"technical,account"
+19,How do I export my data?,"account,general"
+20,Payment method not working after update,"billing,technical"
+21,Payment failed issue variant 1,billing
+22,App crashes frequently variant 2,technical
+23,Can't access account variant 3,account
+24,Need help with billing variant 4,general
+25,Feature not working variant 5,billing
+26,Login problems variant 6,technical
+27,Refund status variant 7,account
+28,Performance issues variant 8,general
+29,Support contact variant 9,billing
+30,Account locked variant 10,technical
+31,Invoice missing variant 11,account
+32,Email not received variant 12,general
+33,Error occurred variant 13,billing
+34,Data export needed variant 14,technical
+35,Settings not saving variant 15,account
+36,Payment failed issue variant 16,general
+37,App crashes frequently variant 17,billing
+38,Can't access account variant 18,technical
+39,Need help with billing variant 19,account
+40,Feature not working variant 20,general
+41,Login problems variant 21,billing
+42,Refund status variant 22,technical
+43,Performance issues variant 23,account
+44,Support contact variant 24,general
+45,Account locked variant 25,billing
+46,Invoice missing variant 26,technical
+47,Email not received variant 27,account
+48,Error occurred variant 28,general
+49,Data export needed variant 29,billing
+50,Settings not saving variant 30,technical
+51,Payment failed issue variant 31,account
+52,App crashes frequently variant 32,general
+53,Can't access account variant 33,billing
+54,Need help with billing variant 34,technical
+55,Feature not working variant 35,account
+56,Login problems variant 36,general
+57,Refund status variant 37,billing
+58,Performance issues variant 38,technical
+59,Support contact variant 39,account
+60,Account locked variant 40,general
+61,Invoice missing variant 41,billing
+62,Email not received variant 42,technical
+63,Error occurred variant 43,account
+64,Data export needed variant 44,general
+65,Settings not saving variant 45,billing
+66,Payment failed issue variant 46,technical
+67,App crashes frequently variant 47,account
+68,Can't access account variant 48,general
+69,Need help with billing variant 49,billing
+70,Feature not working variant 50,technical
+71,Login problems variant 51,account
+72,Refund status variant 52,general
+73,Performance issues variant 53,billing
+74,Support contact variant 54,technical
+75,Account locked variant 55,account
+76,Invoice missing variant 56,general
+77,Email not received variant 57,billing
+78,Error occurred variant 58,technical
+79,Data export needed variant 59,account
+80,Settings not saving variant 60,general
+81,Payment failed issue variant 61,billing
+82,App crashes frequently variant 62,technical
+83,Can't access account variant 63,account
+84,Need help with billing variant 64,general
+85,Feature not working variant 65,billing
+86,Login problems variant 66,technical
+87,Refund status variant 67,account
+88,Performance issues variant 68,general
+89,Support contact variant 69,billing
+90,Account locked variant 70,technical
+91,Invoice missing variant 71,account
+92,Email not received variant 72,general
+93,Error occurred variant 73,billing
+94,Data export needed variant 74,technical
+95,Settings not saving variant 75,account
+96,Payment failed issue variant 76,general
+97,App crashes frequently variant 77,billing
+98,Can't access account variant 78,technical
+99,Need help with billing variant 79,account
+100,Feature not working variant 80,general
+101,Login problems variant 81,billing
+102,Refund status variant 82,technical
+103,Performance issues variant 83,account
+104,Support contact variant 84,general
+105,Account locked variant 85,billing
+106,Invoice missing variant 86,technical
+107,Email not received variant 87,account
+108,Error occurred variant 88,general
+109,Data export needed variant 89,billing
+110,Settings not saving variant 90,technical
+111,Payment failed issue variant 91,account
+112,App crashes frequently variant 92,general
+113,Can't access account variant 93,billing
+114,Need help with billing variant 94,technical
+115,Feature not working variant 95,account
+116,Login problems variant 96,general
+117,Refund status variant 97,billing
+118,Performance issues variant 98,technical
+119,Support contact variant 99,account
+120,Account locked variant 100,general
+121,Invoice missing variant 101,billing
+122,Email not received variant 102,technical
+123,Error occurred variant 103,account
+124,Data export needed variant 104,general
+125,Settings not saving variant 105,billing
+126,Payment failed issue variant 106,technical
+127,App crashes frequently variant 107,account
+128,Can't access account variant 108,general
+129,Need help with billing variant 109,billing
+130,Feature not working variant 110,technical
+131,Login problems variant 111,account
+132,Refund status variant 112,general
+133,Performance issues variant 113,billing
+134,Support contact variant 114,technical
+135,Account locked variant 115,account
+136,Invoice missing variant 116,general
+137,Email not received variant 117,billing
+138,Error occurred variant 118,technical
+139,Data export needed variant 119,account
+140,Settings not saving variant 120,general
+141,Payment failed issue variant 121,billing
+142,App crashes frequently variant 122,technical
+143,Can't access account variant 123,account
+144,Need help with billing variant 124,general
+145,Feature not working variant 125,billing
+146,Login problems variant 126,technical
+147,Refund status variant 127,account
+148,Performance issues variant 128,general
+149,Support contact variant 129,billing
+150,Account locked variant 130,technical
+151,Invoice missing variant 131,account
+152,Email not received variant 132,general
+153,Error occurred variant 133,billing
+154,Data export needed variant 134,technical
+155,Settings not saving variant 135,account
+156,Payment failed issue variant 136,general
+157,App crashes frequently variant 137,billing
+158,Can't access account variant 138,technical
+159,Need help with billing variant 139,account
+160,Feature not working variant 140,general
+161,Login problems variant 141,billing
+162,Refund status variant 142,technical
+163,Performance issues variant 143,account
+164,Support contact variant 144,general
+165,Account locked variant 145,billing
+166,Invoice missing variant 146,technical
+167,Email not received variant 147,account
+168,Error occurred variant 148,general
+169,Data export needed variant 149,billing
+170,Settings not saving variant 150,technical
+171,Payment failed issue variant 151,account
+172,App crashes frequently variant 152,general
+173,Can't access account variant 153,billing
+174,Need help with billing variant 154,technical
+175,Feature not working variant 155,account
+176,Login problems variant 156,general
+177,Refund status variant 157,billing
+178,Performance issues variant 158,technical
+179,Support contact variant 159,account
+180,Account locked variant 160,general
+181,Invoice missing variant 161,billing
+182,Email not received variant 162,technical
+183,Error occurred variant 163,account
+184,Data export needed variant 164,general
+185,Settings not saving variant 165,billing
+186,Payment failed issue variant 166,technical
+187,App crashes frequently variant 167,account
+188,Can't access account variant 168,general
+189,Need help with billing variant 169,billing
+190,Feature not working variant 170,technical
+191,Login problems variant 171,account
+192,Refund status variant 172,general
+193,Performance issues variant 173,billing
+194,Support contact variant 174,technical
+195,Account locked variant 175,account
+196,Invoice missing variant 176,general
+197,Email not received variant 177,billing
+198,Error occurred variant 178,technical
+199,Data export needed variant 179,account
+200,Settings not saving variant 180,general
+201,Payment failed issue variant 181,billing
+202,App crashes frequently variant 182,technical
+203,Can't access account variant 183,account
+204,Need help with billing variant 184,general
+205,Feature not working variant 185,billing
+206,Login problems variant 186,technical
+207,Refund status variant 187,account
+208,Performance issues variant 188,general
+209,Support contact variant 189,billing
+210,Account locked variant 190,technical
+211,Invoice missing variant 191,account
+212,Email not received variant 192,general
+213,Error occurred variant 193,billing
+214,Data export needed variant 194,technical
+215,Settings not saving variant 195,account
+216,Payment failed issue variant 196,general
+217,App crashes frequently variant 197,billing
+218,Can't access account variant 198,technical
+219,Need help with billing variant 199,account
+220,Feature not working variant 200,general
+221,Login problems variant 201,billing
+222,Refund status variant 202,technical
+223,Performance issues variant 203,account
+224,Support contact variant 204,general
+225,Account locked variant 205,billing
+226,Invoice missing variant 206,technical
+227,Email not received variant 207,account
+228,Error occurred variant 208,general
+229,Data export needed variant 209,billing
+230,Settings not saving variant 210,technical
+231,Payment failed issue variant 211,account
+232,App crashes frequently variant 212,general
+233,Can't access account variant 213,billing
+234,Need help with billing variant 214,technical
+235,Feature not working variant 215,account
+236,Login problems variant 216,general
+237,Refund status variant 217,billing
+238,Performance issues variant 218,technical
+239,Support contact variant 219,account
+240,Account locked variant 220,general
+241,Invoice missing variant 221,billing
+242,Email not received variant 222,technical
+243,Error occurred variant 223,account
+244,Data export needed variant 224,general
+245,Settings not saving variant 225,billing
+246,Payment failed issue variant 226,technical
+247,App crashes frequently variant 227,account
+248,Can't access account variant 228,general
+249,Need help with billing variant 229,billing
+250,Feature not working variant 230,technical
+251,Login problems variant 231,account
+252,Refund status variant 232,general
+253,Performance issues variant 233,billing
+254,Support contact variant 234,technical
+255,Account locked variant 235,account
+256,Invoice missing variant 236,general
+257,Email not received variant 237,billing
+258,Error occurred variant 238,technical
+259,Data export needed variant 239,account
+260,Settings not saving variant 240,general
+261,Payment failed issue variant 241,billing
+262,App crashes frequently variant 242,technical
+263,Can't access account variant 243,account
+264,Need help with billing variant 244,general
+265,Feature not working variant 245,billing
+266,Login problems variant 246,technical
+267,Refund status variant 247,account
+268,Performance issues variant 248,general
+269,Support contact variant 249,billing
+270,Account locked variant 250,technical
+271,Invoice missing variant 251,account
+272,Email not received variant 252,general
+273,Error occurred variant 253,billing
+274,Data export needed variant 254,technical
+275,Settings not saving variant 255,account
+276,Payment failed issue variant 256,general
+277,App crashes frequently variant 257,billing
+278,Can't access account variant 258,technical
+279,Need help with billing variant 259,account
+280,Feature not working variant 260,general
+281,Login problems variant 261,billing
+282,Refund status variant 262,technical
+283,Performance issues variant 263,account
+284,Support contact variant 264,general
+285,Account locked variant 265,billing
+286,Invoice missing variant 266,technical
+287,Email not received variant 267,account
+288,Error occurred variant 268,general
+289,Data export needed variant 269,billing
+290,Settings not saving variant 270,technical
+291,Payment failed issue variant 271,account
+292,App crashes frequently variant 272,general
+293,Can't access account variant 273,billing
+294,Need help with billing variant 274,technical
+295,Feature not working variant 275,account
+296,Login problems variant 276,general
+297,Refund status variant 277,billing
+298,Performance issues variant 278,technical
+299,Support contact variant 279,account
+300,Account locked variant 280,general
+301,Invoice missing variant 281,billing
+302,Email not received variant 282,technical
+303,Error occurred variant 283,account
+304,Data export needed variant 284,general
+305,Settings not saving variant 285,billing
+306,Payment failed issue variant 286,technical
+307,App crashes frequently variant 287,account
+308,Can't access account variant 288,general
+309,Need help with billing variant 289,billing
+310,Feature not working variant 290,technical
+311,Login problems variant 291,account
+312,Refund status variant 292,general
+313,Performance issues variant 293,billing
+314,Support contact variant 294,technical
+315,Account locked variant 295,account
+316,Invoice missing variant 296,general
+317,Email not received variant 297,billing
+318,Error occurred variant 298,technical
+319,Data export needed variant 299,account
+320,Settings not saving variant 300,general
+321,Payment failed issue variant 301,billing
+322,App crashes frequently variant 302,technical
+323,Can't access account variant 303,account
+324,Need help with billing variant 304,general
+325,Feature not working variant 305,billing
+326,Login problems variant 306,technical
+327,Refund status variant 307,account
+328,Performance issues variant 308,general
+329,Support contact variant 309,billing
+330,Account locked variant 310,technical
+331,Invoice missing variant 311,account
+332,Email not received variant 312,general
+333,Error occurred variant 313,billing
+334,Data export needed variant 314,technical
+335,Settings not saving variant 315,account
+336,Payment failed issue variant 316,general
+337,App crashes frequently variant 317,billing
+338,Can't access account variant 318,technical
+339,Need help with billing variant 319,account
+340,Feature not working variant 320,general
+341,Login problems variant 321,billing
+342,Refund status variant 322,technical
+343,Performance issues variant 323,account
+344,Support contact variant 324,general
+345,Account locked variant 325,billing
+346,Invoice missing variant 326,technical
+347,Email not received variant 327,account
+348,Error occurred variant 328,general
+349,Data export needed variant 329,billing
+350,Settings not saving variant 330,technical
